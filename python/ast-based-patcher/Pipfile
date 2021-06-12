@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+black = "==21.6b0"
+
+[packages]
+astunparse = "==1.6.3"
+lxml = "==4.6.3"
+
+[requires]
+python_version = '3'
+
